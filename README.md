@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositorio curdo git  github
+# Olá, Mundo
+ Primeiro repositorio curso git  github
